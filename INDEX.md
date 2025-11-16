@@ -19,7 +19,7 @@ npm run serve
 # Visit: http://localhost:8080
 ```
 
-That's it! Your dashboard is live. 🎉
+That's it! Your dashboard is live by LORN David. 🎉
 
 ---
 
